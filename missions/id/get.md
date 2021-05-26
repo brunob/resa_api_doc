@@ -29,6 +29,7 @@ Exemple de retour accessible dans le bloc `donnees`.
 	"tel": "...",
 	"email": "...",
 	"id_asso": "...",
-	"nom_asso": "..."
+	"nom_asso": "...",
+	"date": "..."
 }]
 ```
