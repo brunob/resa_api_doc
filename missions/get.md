@@ -26,13 +26,15 @@ Exemple de retour accessible dans le bloc `donnees`.
 	"categorie": "...",
 	"mission_type": "...",
 	"commune": "...",
-	"nom_asso": "..."
+	"nom_asso": "...",
+	"date": "..."
 }, {
 	"id_mission": "...",
 	"titre": "...",
 	"categorie": "...",
 	"mission_type": "...",
 	"commune": "...",
-	"nom_asso": "..."
+	"nom_asso": "...",
+	"date": "..."
 }]
 ```
