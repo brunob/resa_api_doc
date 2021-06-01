@@ -22,6 +22,7 @@ Exemple de retour accessible dans le bloc `donnees`.
 	"categorie": "...",
 	"materiel_quantite": "...",
 	"materiel_conditions": "...",
+	"materiel_conditions_detail": "...",
 	"commune": "...",
 	"contact_referent": "...",
 	"tel": "...",
