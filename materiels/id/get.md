@@ -18,6 +18,7 @@ Exemple de retour accessible dans le bloc `donnees`.
 [{
 	"id_materiel": "...",
 	"titre": "...",
+	"logo": "...",
 	"description": "...",
 	"categorie": "...",
 	"materiel_quantite": "...",
