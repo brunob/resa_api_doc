@@ -34,7 +34,7 @@ Exemple de retour accessible dans le bloc `donnees`.
 	"rna": "...",
 	"siret": "...",
 	"presidents": "...",
-	"nb_adhrents": "...",
+	"nb_adherents": "...",
 	"nb_salaries": "...",
 	"antennes": "...",
 	"contact1": "...",
