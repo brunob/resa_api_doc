@@ -80,7 +80,7 @@ Endpoint pour récupérer les informations des fiches mission.
 
 Endpoint pour récupérer les catégories de classement des différents types de fiches.
 
-* **URL** : `/http.api/ezrest/catégories/`
+* **URL** : `/http.api/ezrest/categories/`
 * **Paramètre** : `id_groupe`
   * `1` : catégories des fiches association
   * `2` : catégories des fiches matériel
