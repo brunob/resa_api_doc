@@ -18,6 +18,7 @@ Exemple de retour accessible dans le bloc `donnees`.
 [{
 	"id_mission": "...",
 	"titre": "...",
+	"logo": "...",
 	"description": "...",
 	"mission_horaires": "...",
 	"mission_utile": "...",
