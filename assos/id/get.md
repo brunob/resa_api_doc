@@ -18,6 +18,7 @@ Exemple de retour accessible dans le bloc `donnees`.
 [{
 	"id_asso": "...",
 	"titre": "...",
+	"logo": "...",
 	"categorie": "...",
 	"commune": "...",
 	"email": "...",
