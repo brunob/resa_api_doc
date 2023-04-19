@@ -25,6 +25,7 @@ Exemple de retour accessible dans le bloc `donnees`.
 [{
 	"id_evenement": "...",
 	"titre": "...",
+	"logo": "...",
 	"date_debut": "...",
 	"date_fin": "...",
 	"horaire": "...",
@@ -35,6 +36,7 @@ Exemple de retour accessible dans le bloc `donnees`.
 }, {
 	"id_evenement": "...",
 	"titre": "...",
+	"logo": "...",
 	"date_debut": "...",
 	"date_fin": "...",
 	"horaire": "...",
